@@ -1,19 +1,22 @@
-## midiOverIP by teknopaul
+## midiOverIP
+
+  by teknopaul
 
 midiOverIP is a GPLv3 Windows clone of multimidicast by Dirk Jagdmann
 for Linux and ipMIDI for Windows from http://nerds.de
 
-It is a Windows APP, it does not run on Linux use multimidicast on 
+It is a Windows app, it does not run on Linux, use multimidicast on 
 Linux.
 
-All three of these packages take midi packets and ping them as UDP 
-packets to a fixed multicast address and port and should be compatible.
+All three of these apps take midi packets and ping them as UDP 
+packets to a fixed multicast address and porti.
+They should all be compatible.
 
-The one from nerds.de is limited to work for 60 mins unless you
-pay, so I wrote midiOverIP.
+The app from nerds.de is limited to work for 60 mins unless you
+pay, which is why I wrote midiOverIP.
 
-nerds.de one is porbably better if you want to spend money and
-dont have a thing about free software.
+nerds.de one is probably better if you want to spend money and
+don't have a thing about free software.
 
 The combination of multimidicast and midiOverIP enables me to have
 LMMS as the master and control VST midi instruments running on a 
@@ -49,9 +52,9 @@ a virtual (or physical) midi controller.
 ## Virtual midi controllers
 
 http://nerds.de do a virtual midi controller called LoopBe1 that 
-I can recommend that is free as in beer for non-commercial use, 
-but not free as in speech. They also have a commerial virtual
-midi device too.
+I can recommend, it is free as in beer for non-commercial use, 
+but not free as in speech. They also have a commercial virtual
+midi device.
 
 http://www.tobias-erichsen.de/loopMIDI.html does a midi dirver that 
 is free as in beer also for commercial use, but not free as in speech.
