@@ -1,5 +1,7 @@
 ## midiOverIP
 
+![moip](http://code.abnoctus.com/moip.png)
+
   by teknopaul
 
 midiOverIP is a GPLv3 Windows clone of multimidicast by Dirk Jagdmann
